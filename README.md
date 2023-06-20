@@ -1,1 +1,1 @@
-## [React Random Quote Machine](https://colyzak.github.io/Random-quote-machine-with-reactJS/)
+## [React Random Quote Machine](https://random-quote-generator-with-reactjs.netlify.app/)
